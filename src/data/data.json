@@ -1,0 +1,171 @@
+{
+  "home": {
+    "name": "Jagadish",
+    "roles": [
+      "Full Stack Developer",
+      "Mobile Application Developer",
+      "Automation Engineer"
+    ],
+    "intro": "Building web, mobile, and automated solutions that solve real problems."
+  },
+  "about": {
+    "intro": "I’m a Full Stack Developer with 1+ years of experience in building SaaS web applications, automation tools, and mobile apps. I’m passionate about solving real-world problems through clean, efficient, and scalable code. My strengths include a strong foundation in Data Structures and Algorithms (DSA) and hands-on experience with modern development frameworks. Currently, I’m upskilling in Flutter and exploring AI-powered automation to enhance productivity and streamline daily workflows.",
+    "skills": [
+      {
+        "category": "Programming",
+        "items": ["Python", "JavaScript", "PHP", "App Script"]
+      },
+      {
+        "category": "Frameworks & Libraries",
+        "items": ["Django", "React", "React Native", "Laravel", "Blade", "Tkinter", "OpenCV"]
+      },
+      {
+        "category": "Databases",
+        "items": ["MySQL", "Firebase"]
+      },
+      {
+        "category": "Frontend & Styling",
+        "items": ["Tailwind CSS", "Bootstrap"]
+      },
+      {
+        "category": "APIs & Automation",
+        "items": ["REST APIs", "API Integration", "Automation Tools"]
+      },
+      {
+        "category": "Soft Skills",
+        "items": ["Problem Solving", "Adaptability", "Continuous Learning", "Collaboration"]
+      }
+    ],
+    "education": [
+      "B.Tech in Computer Science and Engineering — Viswam Engineering College (2020 – 2024)",
+      "Intermediate (MPC) — Krishna Reddy Junior College (2018 – 2020)",
+      "Secondary School — Hope E.M. School (2014 – 2018)"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Member of Technical Staff (SDE)",
+      "company": "Pixart Technologies",
+      "period": "Sep 2024 - Present",
+      "points": [
+        "Developed SaaS web application for school management using Laravel and MySQL.",
+        "Built field sales mobile app with real-time tracking and Google Sheets integration.",
+        "Created video automation tool with Python, OpenCV, and MoviePy, generating 300+ videos in 1.5 hours."
+      ]
+    },
+    {
+      "title": "Python Full Stack Trainee",
+      "company": "Codegnan",
+      "period": "May 2024 - Sep 2024",
+      "points": [
+        "Learned full-stack development with Python/Django and MySQL.",
+        "Built clean, scalable web applications integrating frontend and backend."
+      ]
+    },
+    {
+      "title": "Frontend Developer Intern",
+      "company": "1Stop.ai",
+      "period": "Jan 2024 - Mar 2024",
+      "points": [
+        "Developed responsive to-do list web app using HTML, CSS, JS, and Bootstrap.",
+        "Enhanced skills in interactive frontend development."
+      ]
+    }
+  ],
+  "projects": {
+    "main": [
+      {
+        "title": "Interactive To-Do Application",
+        "desc": "A responsive To-Do List app that lets users add, edit, delete, and mark tasks as done, featuring a modern, vibrant UI with smooth interactive elements for a user-friendly experience.",
+        "tech": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "github": "https://github.com/jagadish43/To-Do-List",
+        "live": "https://jagadish43.github.io/To-Do-List/"
+      },
+      {
+        "title": "Weather Dashboard",
+        "desc": "Implemented real-time weather updates by integrating OpenWeather API, ensuring accurate forecasts and a dynamic, responsive UI for users.",
+        "tech": ["JavaScript", "API Integration", "HTML", "CSS"],
+        "github": "https://github.com/yourusername/weather-dashboard",
+        "live": "https://jagadish43.github.io/Weather-Dashboard/"
+      }
+    ],
+    "minor": [
+      {
+        "title": "Turtle shapes Gallery",
+        "desc": "A Python project using the Turtle graphics module to create interactive geometric drawings based on user-selected shapes.",
+        "tech": ["Python"],
+        "github": "https://github.com/jagadish43/Turtle_shapes_Gallery",
+        "live": ""
+      },
+      {
+        "title": "Madlibs Generator",
+        "desc": "A Python-based Madlibs Generator that randomly selects a story, takes user inputs for placeholders, and creates a fun, customized story.",
+        "tech": ["Python"],
+        "github": "https://github.com/jagadish43/Madlibs_Generator",
+        "live": ""
+      },
+      {
+        "title": "Math Timed",
+        "desc": "A Python-based quiz game that generates random arithmetic problems, challenges users with 10 questions, and tracks completion time for a fun math practice experience.",
+        "tech": ["Python"],
+        "github": "https://github.com/jagadish43/Math_timed",
+        "live": ""
+      }
+    ]
+  },
+  "certificates": [
+    {
+      "title": "Python full Stack Development",
+      "provider": "Codegan Destination",
+      "desc": "Comprehensive training on Python, Django and deployment.",
+      "img": "Images/pythonImage.png"
+    },
+    {
+      "title": "AWS for Beginners",
+      "provider": "Great Learning",
+      "desc": "Introduction to cloud computing using AWS services.",
+      "img": "Images/aws.jpg"
+    },
+    {
+      "title": "Web Development Front-end",
+      "provider": "1Stop Solutions",
+      "desc": "Intensive internship in HTML, CSS, JS, and React.",
+      "img": "Images/stop.jpg"
+    },
+    {
+      "title": "Python OOP Mastery",
+      "provider": "Great Learning",
+      "desc": "Advanced OOP concepts with practical Python projects.",
+      "img": "Images/oops.jpg"
+    },
+    {
+      "title": "Machine Learning",
+      "provider": "D3 Solutions",
+      "desc": "Worked on understanding end-to-end machine learning workflows by applying Python-based data preprocessing and model development on real-world datasets.",
+      "img": "Images/ML.png"
+    }
+  ],
+  "contact": {
+    "phone": "+91 9107772929",
+    "email": "ganaparthyjagadeesh@gmail.com",
+    "whatsappNumber": "919107772929",
+    "resumePath": "resume/Jagadish.pdf",
+    "socials": [
+      {
+        "label": "LinkedIn",
+        "link": "https://linkedin.com/in/gjagadish77",
+        "icon": "linkedin"
+      },
+      {
+        "label": "GitHub",
+        "link": "https://github.com/jagadish43",
+        "icon": "github"
+      },
+      {
+        "label": "LeetCode",
+        "link": "https://leetcode.com/jagadish2012",
+        "icon": "code"
+      }
+    ]
+  }
+}
